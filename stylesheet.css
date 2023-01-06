@@ -30,6 +30,13 @@ body{
     text-align: center;
 }
 
+.video-wrapper{
+    background-size: cover;
+    margin: 0;
+    width: 100%;
+    display: inline-block;
+}
+
 .message-wrapper{
     background-image:url(23370545.jpg) ;
     background-size: cover;
