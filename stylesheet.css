@@ -66,7 +66,7 @@ header p{
     .image-wrapper img{
         align-items: flex-start;
         width: 400px;
-        height: 800px;
+        height: 600px;
         background-size: cover;
     }
     .URL ul{
@@ -96,9 +96,9 @@ header p{
     }
 }
 
-@media(max-width: 1000px){
+@media(max-width: 959px){
 .iframe-wrapper{
-    width: 1000px;
+    width: 959px;
     height: 600px;
 }
 }
