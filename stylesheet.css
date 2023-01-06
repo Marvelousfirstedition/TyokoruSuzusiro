@@ -65,8 +65,8 @@ header p{
 @media(max-width: 400px){
     .image-wrapper img{
         align-items: flex-start;
-        width: 400px;
-        height: 600px;
+        width: 100%;
+        height: 100%;
         background-size: cover;
     }
     .URL ul{
