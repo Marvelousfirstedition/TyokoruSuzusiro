@@ -28,8 +28,8 @@ header{
 header p{
     font-size: 40px;
     font-style: oblique;
-    text-shadow: 2px 3px 3px rgb(142, 127, 255);
-    color:rgb(229, 245, 220);
+    text-shadow: 2px 3px 3px violet;
+    color:greenyellow;
 }
 
 .URL ul{
@@ -99,6 +99,10 @@ header p{
 @media(max-width: 959px){
 .iframe-wrapper{
     width: 100%;
-    height: 100%;
+    height: 500px;
+}
+.iframe-wrapper iframe{
+    width: 100%;
+    height: 500px;
 }
 }
