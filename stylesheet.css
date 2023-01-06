@@ -16,10 +16,6 @@ header{
     background-size: cover;
 }
 
-.image-wrapper{
-   background-size: cover;
-}
-
 .logo{
     font-size: 40px;
     font-style: oblique;
@@ -62,11 +58,15 @@ header{
     .message-wrapper{
         text-align: center;
         width: 480px;
-        line-height: 1.3
+        line-height: 1.3;
+        background-size: cover;
+        align-items: flex-start;
     }
 
     header{
         width: 480px;
+        background-size: cover;
+        align-items: flex-start;
     }
 
     .video-wrapper{
