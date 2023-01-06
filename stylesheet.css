@@ -10,7 +10,7 @@ body{
     margin: 0 0 0 0;
 }
 
-header{
+.header{
     color:gold;
     background-image: url(white_00041.jpg);
     background-size: cover;
@@ -63,7 +63,7 @@ header{
         align-items: flex-start;
     }
 
-    header{
+    .header{
         width: 480px;
         background-size: cover;
         align-items: flex-start;
