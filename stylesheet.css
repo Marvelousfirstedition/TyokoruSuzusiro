@@ -65,7 +65,8 @@ header p{
     .image-wrapper img{
         align-items: flex-start;
         width: 400px;
-        height: 400px;
+        height: 800px;
+        background-size: cover;
     }
     .URL ul{
         font-size: 20px;
@@ -83,4 +84,20 @@ header p{
         width: 400px;
         background-size: cover;
     }
+
+    header p{
+        font-size: 20px;
+    }
+
+    .URL ul{
+        font-size: 40px;
+        padding-bottom: 20px;
+    }
+}
+
+@media(max-width: 1000px){
+.iframe-wrapper{
+    width: 1000px;
+    height: 600px;
+}
 }
