@@ -16,6 +16,10 @@ header{
     background-size: cover;
 }
 
+.image-wrapper{
+   background-size: cover;
+}
+
 .logo{
     font-size: 40px;
     font-style: oblique;
@@ -40,11 +44,9 @@ header{
     background-image:url(23370545.jpg) ;
     background-size: cover;
     font-size: 20px;
-}
-
-.message-wrapper ul li{
     line-height: 2;
 }
+
 
 @media all and(max-width: 480px){
     .image-wrapper img{
