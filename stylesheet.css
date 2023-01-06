@@ -12,8 +12,8 @@ body{
 
 .header{
     color:gold;
-    height: 200px;
     background-image: url(white_00041.jpg);
+    background-size: cover;
 }
 
 .logo{
@@ -25,14 +25,14 @@ body{
 
 .URL ul{
     margin: 30px 0 0 0;
-    display: flex;
-    gap: 20px;
+    gap: 30px;
     font-size: 40px;
     text-align: center;
 }
 
 .message-wrapper{
     background-image:url(23370545.jpg) ;
+    background-size: cover;
     font-size: 20px;
 }
 
